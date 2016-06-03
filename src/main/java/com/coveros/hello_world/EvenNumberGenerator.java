@@ -11,7 +11,7 @@ public static int generateRandomEven(){
 	}
 	return result;
 }
-//test
+
 public static int generateRandomOdd(){
 
 	Random randomGenerator = new Random();
