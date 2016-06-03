@@ -88,7 +88,6 @@ uploadArchives {
       }
     }
 }
-//changes
 
 pmd {
   ignoreFailures = true
